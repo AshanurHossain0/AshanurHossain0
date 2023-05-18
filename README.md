@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashanur Hossain</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img src="https://dribbble.com/shots/3848914-Programmer-Thomas" alt="coding"></img>
+<img src="[https://dribbble.com/shots/3848914-Programmer-Thomas](https://www.google.com/search?q=animated+coding+gif&rlz=1C1VDKB_enIN971IN971&sxsrf=APwXEddr6tHaNUkmonraWF97FyGNSrR3FA:1684410921578&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiflovV5_7-AhWnbWwGHWwGBQwQ_AUoAXoECAEQAw&biw=1366&bih=667&dpr=1#imgrc=ZmOH4FBlhx83-M)" alt="coding"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashanurhossain0&label=Profile%20views&color=0e75b6&style=flat" alt="ashanurhossain0" /> </p>
 
