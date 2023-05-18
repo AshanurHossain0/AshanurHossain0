@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashanur Hossain</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding"></img>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashanurhossain0&label=Profile%20views&color=0e75b6&style=flat" alt="ashanurhossain0" /> </p>
 
