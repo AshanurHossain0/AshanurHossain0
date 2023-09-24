@@ -2,14 +2,14 @@
   [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ashanur Hossain</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate FULL STACK developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashanurhossain0&label=Profile%20views&color=0e75b6&style=flat" alt="ashanurhossain0" /> </p>
 
-- 🌱 I’m currently learning **mysql**
+- 🌱 I’m currently learning **mysql** and **Next.js**
 
-- 💬 Ask me about **MongoDB, Express, Node.js, React, Javascript, C++, HTML, CSS, JWT, Redis**
+- 💬 Ask me about **MongoDB, Express, Node.js, React, Javascript, C++, HTML, CSS, JWT, Typescript**
 
 - 📫 How to reach me **ashanurhossain0@gmail.com**
 
